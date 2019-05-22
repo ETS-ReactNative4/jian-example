@@ -7,6 +7,7 @@ import Detail from './pages/detail/loadable.js';
 import Login from './pages/login';
 import Write from './pages/write';
 import store from './store';
+import './statics/iconfont/iconfont.css';
 
 class App extends Component {
   render() {

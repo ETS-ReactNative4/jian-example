@@ -91,7 +91,7 @@ class Header extends Component {
 							></NavSearch>
 						</CSSTransition>
 						<i className={focused ? 'focused iconfont zoom': 'iconfont zoom'}>
-							&#xe614;
+						&#xe60e;
 						</i>
 						{this.getListArea()}
 					</SearchWrapper>
@@ -99,7 +99,7 @@ class Header extends Component {
 				<Addition>
 					<Link to='/write'>
 						<Button className='writting'>
-							<i className="iconfont">&#xe615;</i>
+							<i className="iconfont">&#xe7e2;</i>
 							写文章
 						</Button>
 					</Link>
